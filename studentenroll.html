@@ -5,8 +5,7 @@
     <meta http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
-
+    
     <title>Student Enrollment Form | Teach the Poor</title>
 
     <!-- This is link to Arvo font  -->
@@ -36,10 +35,10 @@
 	<div class="collapse navbar-collapse" id="navbarsExampleDefault">
     <ul class="navbar-nav ml-auto text-right">
       <li class="nav-item active">
-        <a class="nav-link" href="#who">Who We Are <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.html#who">Who We Are <span class="sr-only">(current)</span></a>
       </li>
 			<li class="nav-item active">
-        <a class="nav-link" href="#get-involved">Get Involved<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="index.html#get-involved">Get Involved<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown listpm" >
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sign-In</a>
@@ -55,29 +54,40 @@
 </nav>
 
 		 <div class="jumbotron bg-gray">
-      <div class="container">
+      <div class="container student-enroll-bg">
  <div class="row">
 	 <div class="col-md-3"></div>
 	 <div class="col-md-6">
-  <form action="succesfulenroll.html" class="container">
+  <form action="succesfulenroll.html" class="container student-enroll-bg">
 	
   <h1 class="h3 mb-3 font-weight-normal text-center"> Student Enrollment</h1>
 	<hr style="width:50%">
 	<br>
   <div class="form-row">
     <div class="form-group col-md-6">
+      <label for="inputfname">First Name</label>
+      <input type="text" class="form-control" id="inputfname" required>
+    </div>
+    <div class="form-group col-md-6">
+      <label for="inputlname">Last name</label>
+      <input type="text" class="form-control" id="inputlname" required>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-md-6">
       <label for="inputEmail4">Email</label>
-      <input type="email" class="form-control" id="inputEmail4">
+      <input type="email" class="form-control" id="inputEmail4" required>
     </div>
     <div class="form-group col-md-6">
       <label for="inputPassword4">Password</label>
-      <input type="password" class="form-control" id="inputPassword4">
+      <input type="password" class="form-control" id="inputPassword4" required>
     </div>
   </div>
    <div class="form-row">
   <div class="form-group col-md-6">
     <label for="exampleFormControlSelect1">Your Qualification</label>
     <select class="form-control" id="exampleFormControlSelect1">
+      <option selected>Choose...</option>
       <option>High School</option>
       <option>Graduate</option>
       <option>Post-Graduate</option>
@@ -127,10 +137,21 @@
   </div>
 <button type="submit" class="btn btn-primary">Enroll/Enquire </button>
 </form>
-<div class="col-md-3"></div>
+	 </div>
+ </div>
+
 
 </div>
-</div>
+
+<footer>
+     <ul class="footer-social-links">
+       <li><a href="http://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+       <li><a href="http://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a></li>
+       <li><a href="http://instragram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+       <li><a href="http://youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
+     </ul>
+      </footer>
+      </div>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 </body>
