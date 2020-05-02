@@ -7,7 +7,7 @@
 
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Teach the Poor</title>
+    <title>Sponsor Donation Form</title>
 
     <!-- This is link to Arvo font  -->
    <link href="https://fonts.googleapis.com/css?family=Arvo&display=swap" rel="stylesheet">
@@ -57,7 +57,6 @@
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-
 	<div class="collapse navbar-collapse" id="navbarsExampleDefault">
     <ul class="navbar-nav ml-auto text-right">
       <li class="nav-item active">
@@ -79,8 +78,8 @@
   </div>
 </nav>
 
- <div class="jumbotron bg-gray sponsor-enroll-bg">
-    <div class="container">
+ <div class="jumbotron bg-gray">
+    <div class="container sponsor-enroll-bg">
 			<div class="row ">
 				  <h1 class="h3 mb-3 font-weight-normal text-center"><u>SPONSOR FORM</u></h1>
 					<br>
@@ -88,9 +87,9 @@
 			</div>
 		<div class="row">				
     <div class="col-md-4 order-md-2 mb-4">
-			<form class="needs-validation" novalidate>
+			<form action="succesfuldonation.html">
       <h4 class="d-flex justify-content-between align-items-center mb-3">
-        <span class="text-muted">Your cart</span>
+        <span>Your cart</span>
         <span class="badge badge-secondary badge-pill">3</span>
       </h4>
       <ul class="list-group mb-3">
@@ -124,7 +123,7 @@
     </div>
     <div class="col-md-8 order-md-1">
       <h4 class="mb-3">Billing address</h4>
-      <form class="needs-validation" novalidate>
+     	<form action="succesfuldonation.html"> 
         <div class="row">
           <div class="col-md-6 mb-3">
             <label for="firstName">First name</label>
@@ -141,7 +140,6 @@
             </div>
           </div>
         </div>
-
         <div class="mb-3">
           <label for="username">Username</label>
           <div class="input-group">
@@ -154,7 +152,6 @@
             </div>
           </div>
         </div>
-
         <div class="mb-3">
           <label for="email">Email <span class="text-muted">(Optional)</span></label>
           <input type="email" class="form-control" id="email" placeholder="you@example.com">
@@ -162,7 +159,6 @@
             Please enter a valid email address for shipping updates.
           </div>
         </div>
-
         <div class="mb-3">
           <label for="address">Address</label>
           <input type="text" class="form-control" id="address" placeholder="1234 Main St" required>
@@ -170,12 +166,10 @@
             Please enter your shipping address.
           </div>
         </div>
-
         <div class="mb-3">
           <label for="address2">Address 2 <span class="text-muted">(Optional)</span></label>
           <input type="text" class="form-control" id="address2" placeholder="Apartment or suite">
         </div>
-
         <div class="row">
           <div class="col-md-5 mb-3">
             <label for="country">Country</label>
@@ -215,9 +209,7 @@
           <label class="custom-control-label" for="save-info">Save this information for next time</label>
         </div>
         <hr class="mb-4">
-
         <h4 class="mb-3">Payment</h4>
-
         <div class="d-block my-3">
           <div class="custom-control custom-radio">
             <input id="credit" name="paymentMethod" type="radio" class="custom-control-input" checked required>
@@ -271,7 +263,17 @@
     </div>
   </div>
 </div>
+</form>
  </div>
+
+ <footer class="fixed-bottom">
+     <ul class="footer-social-links">
+       <li><a href="http://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+       <li><a href="http://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a></li>
+       <li><a href="http://instragram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+       <li><a href="http://youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
+     </ul>
+ </footer>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
       <script>window.jQuery || document.write('<script src="/docs/4.4/assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="/docs/4.4/dist/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
         <script src="form-validation.js"></script>
