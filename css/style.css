@@ -36,11 +36,12 @@
   margin-bottom: 50px;
   font-family: 'Arvo', serif;
   font-weight: 700%;
+	font-size: 50px;
 }
 
 .callout-main p {
   margin-bottom: 30px;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
   padding: 0 50px;
 }
@@ -143,6 +144,7 @@ footer {
     background: #003767;
     margin-bottom: 0;
     width: 100%;
+		position: fixed;
 }
 /* to align all icons in the center --*/
 .footer-social-links{
