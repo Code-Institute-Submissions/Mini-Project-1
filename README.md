@@ -83,13 +83,13 @@ Manual Testing performed to test the below user stories
 6.	Test to check User able to successfully submit trainer enrollment online
 7.	Verify Login – Student / Trainer / Admin / Sponsor
 Link to automation code and setup for testing
- [GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/
+ [GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Screenshots%20of%20mobile%20and%20tab%20testing.docx)
 ## How your project looks and works on different browsers and screen sizes
     The website is designed with bootstrap hence mobile friendly by default.
     Also it has 3 breakpoints for different elements on the page
     1199px , 991px and 767px.
   ###    It has been tested for iphone6/7/8 , also in iPad
-[GitHub-Mobile testing view](https://github.com/baddipudiDebora/Mini-Project/blob/master/Screenshots of mobile and tab testing.docx)
+[GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Screenshots of mobile and tab testing.docx)
 
 ## Any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 In my callout main section, not able to properly fit an image with correct size and balance the content size.
