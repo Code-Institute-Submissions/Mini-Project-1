@@ -24,7 +24,7 @@ All of the 4 user persona are targeted in the website to reduce significant phon
 14)	As a sponsor, I want to login.
 
 ### Wire Frame and UX design
-[GitHub](http://github.com)
+[GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Strategy%20plane.docx)
 
 
 ## Features
