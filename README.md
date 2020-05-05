@@ -24,7 +24,7 @@ All of the 4 user persona are targeted in the website to reduce significant phon
 14)	As a sponsor, I want to login.
 
 ### Wire Frame and UX design
-[GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Wireframe-Educate%20All.pdf)
+[GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/UX%20Design%20and%20wireframe.pdf)
 
 ## Features
 ### Existing Features
