@@ -90,7 +90,7 @@ Link to automation code and setup for testing
     Also it has 3 breakpoints for different elements on the page
     1199px , 991px and 767px.
   ###    It has been tested for iphone6/7/8 , also in iPad
-   [GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Screenshots%20of%20mobile%20and%20tab%20testing.docx)
+   [GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Screenshots%20of%20mobile%20and%20tab%20testing.pdf)
 
 
 ## Any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
