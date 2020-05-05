@@ -26,7 +26,6 @@ All of the 4 user persona are targeted in the website to reduce significant phon
 ### Wire Frame and UX design
 [GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Strategy%20plane.docx)
 
-
 ## Features
 ### Existing Features
 1.	Application website loading
@@ -84,7 +83,7 @@ Manual Testing performed to test the below user stories
 7.	Verify Login – Student / Trainer / Admin / Sponsor
 Link to automation code and setup for testing
 
-
+[GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Automation%20-%20Educate%20All.docx)
  
 ## How your project looks and works on different browsers and screen sizes
     The website is designed with bootstrap hence mobile friendly by default.
