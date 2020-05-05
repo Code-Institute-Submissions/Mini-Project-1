@@ -83,7 +83,7 @@ Manual Testing performed to test the below user stories
 7.	Verify Login – Student / Trainer / Admin / Sponsor
 Link to automation code and setup for testing
 
-[GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Automation%20-%20Educate%20All.docx)
+[GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Automation%20-%20Educate%20All.pdf)
  
 ## How your project looks and works on different browsers and screen sizes
     The website is designed with bootstrap hence mobile friendly by default.
