@@ -24,6 +24,7 @@ All of the 4 user persona are targeted in the website to reduce significant phon
 14)	As a sponsor, I want to login.
 
 ### Wire Frame and UX design
+##### please refer link below
 [GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/UX%20Design%20and%20wireframe.pdf)
 
 ## Features
@@ -81,7 +82,8 @@ Manual Testing performed to test the below user stories
 5.	Test to check User able to successfully submit student enrollment online
 6.	Test to check User able to successfully submit trainer enrollment online
 7.	Verify Login – Student / Trainer / Admin / Sponsor
-Link to automation code and setup for testing
+Link to automation code and setup for testing. 
+##### please refer Github link below.
 
 [GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Automation%20-%20Educate%20All.pdf)
  
@@ -89,13 +91,17 @@ Link to automation code and setup for testing
     The website is designed with bootstrap hence mobile friendly by default.
     Also it has 3 breakpoints for different elements on the page
     1199px , 991px and 767px.
-  ###    It has been tested for iphone6/7/8 , also in iPad
+  ###    It has been tested for iphone6/7/8 , also in iPad. 
+  ##### please refer Github link below.
    [GitHub](https://github.com/baddipudiDebora/Mini-Project/blob/master/Screenshots%20of%20mobile%20and%20tab%20testing.pdf)
 
 
 ## Any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 In my callout main section, not able to properly fit an image with correct size and balance the content size.
 ## Deployment
+Code was written in replit and pushed on regular basis to github account.
+the published github page is 
+
 
 
 
