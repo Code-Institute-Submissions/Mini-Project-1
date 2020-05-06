@@ -100,7 +100,8 @@ Link to automation code and setup for testing.
 In my callout main section, not able to properly fit an image with correct size and balance the content size.
 ## Deployment
 Code was written in replit and pushed on regular basis to github account.
-the published github page is 
+#### the published github page is below
+
 [GitHub](https://baddipudidebora.github.io/Mini-Project/)
 
 
