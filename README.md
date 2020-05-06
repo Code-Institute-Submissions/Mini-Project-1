@@ -101,7 +101,7 @@ In my callout main section, not able to properly fit an image with correct size 
 ## Deployment
 Code was written in replit and pushed on regular basis to github account.
 the published github page is 
-
+[GitHub](https://baddipudidebora.github.io/Mini-Project/)
 
 
 
